@@ -1,0 +1,40 @@
+
+
+body {
+
+}
+
+.bild{
+    aspect-ratio: 1;
+
+}
+.container {
+    position: absolute;
+    
+    
+}
+
+.calabria {
+    position: relative;
+    left: 900px;
+    top: 900px;
+}
+
+.campania {
+    position: relative;
+    left: 540px;
+    top: 683px;
+
+}
+.sardegna {}
+.umbria {}
+.marche {}
+.toscana {}
+.veneto {}
+.emilio-romagna {}
+.piemonte {}
+.basilicata {
+    position: relative;
+    left: 765px;
+    top: 690px;
+}
