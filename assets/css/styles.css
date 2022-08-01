@@ -11,7 +11,7 @@ body {
 }
 .container {
     width:1200px;
-    height:1800px;
+    height:2200px;
     position: relative;
 
     
@@ -19,12 +19,15 @@ body {
 }
 
 .calabria {
-   
+   right: 183px;
+   top:887px;
     
     
 }
 
 .campania {
+    right: 285px;
+    top:753px;
     
   
 
@@ -56,13 +59,20 @@ body {
   
 }
 .basilicata {
+    right:213px;
+    top:785px
     
   
 }
-.puglia {}
+.puglia {
+    right: 100px;
+    top:705px
+}
     
     
 .molise {
+    right: 335px;
+    top: 695px;
     
   
 }
