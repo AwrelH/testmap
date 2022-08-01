@@ -6,6 +6,7 @@ body {
 
 .bild{
     aspect-ratio: 1;
+    position: absolute;
 
 }
 .container {
@@ -18,79 +19,61 @@ body {
 }
 
 .calabria {
-    position: relative;
-    left: 839px;
-    top: 880px;
+   
     
     
 }
 
 .campania {
-    position: relative;
-    left: 477px;
-    top: 660px;
+    
+  
 
 }
 .sardegna {
-    position: relative;
-    left: -100px;
-    top: 770px;
+    
+ 
 }
 .umbria {
-    position: relative;
-    left: 51px;
-    top: 413px;
+    
+
 }
 .marche {
-    position: relative;
-    left: -232px;
-    top: 380px;
+    
+   
 }
 .toscana {
-    position: relative;
-    left: -212px;
-    top: 410px;
+    
+  
 
 }
 .veneto {}
 .emilio-romagna {
-    position: relative;
-    left: 346px;
-    top: 20px;
+    
+    
 }
 .piemonte {
-    position: relative;
-    left: -90px;
-    top: -20px;
+    
+  
 }
 .basilicata {
-    position: relative;
-    left: 702px;
-    top: 668px;
+    
+  
 }
-.puglia {
-    position: relative;
-    left: 129px;
-    top: 415px;
-}
+.puglia {}
+    
+    
 .molise {
-    position: relative;
-    left: -194px;
-    top: 270px;
+    
+  
 }
 .lazio {
-    position: relative;
-    left: 65px;
-    top: 286px;
+    
+    
 }
 .liguria {
-    position: relative;
-    left: 217px;
-    top: -88px;
-    z-index: index 3;
+    
+  
 }
-.lombardia {
-    position: relative;
-    left: -686px;
-    top: -85px;
-}
+.lombardia {}
+    
+ 
