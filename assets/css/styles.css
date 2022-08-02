@@ -1,18 +1,47 @@
 
 
 body {
+    
 
+}
+header {
+    display:block;
+    text-align: center;
+       
+    
+}
+h1 {
+    font-size: 5rem;
+}
+h2 {
+    font-size: 3rem;
+}
+nav {
+    display: block;
+    
+    justify-content: center;
+    justify-items: center;
+}
+#questionRow {
+    display:block;
+}
+button{
+    width:200px;
+    height: 50px;
+    font-size: larger;
 }
 
 .bild{
     aspect-ratio: 1;
     position: absolute;
+   
 
 }
 .container {
     width:1200px;
     height:2200px;
     position: relative;
+    margin: 0 auto;
 
     
     
