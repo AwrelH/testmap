@@ -37,25 +37,30 @@ body {
  
 }
 .umbria {
-    
+    top:535px;
+    right: 477px;
 
 }
 .marche {
-    
+    top: 496px;
+    right:430px;
    
 }
 .toscana {
-    
+    top:435px;
+    right:545px;
   
 
 }
 .veneto {}
-.emilio-romagna {
-    
+.emilia-romagna {
+    top:365px;
+    right: 512px
     
 }
 .piemonte {
-    
+    top:228px;
+    left: 250px;
   
 }
 .basilicata {
@@ -77,13 +82,25 @@ body {
   
 }
 .lazio {
-    
+    top: 614px;
+    right:416px;
     
 }
 .liguria {
-    
+    top:410px;
+    right:718px
   
 }
-.lombardia {}
-    
- 
+.lombardia {
+    top:217px;
+    left:377px;
+}
+
+.abruzzo {
+    top: 612px;
+    right:365px;
+}
+ .sicilia {
+    top: 1100px;
+    right:286px;
+ }
