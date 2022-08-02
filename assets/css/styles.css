@@ -33,6 +33,8 @@ body {
 
 }
 .sardegna {
+    top:770px;
+    left: 350px
     
  
 }
@@ -52,7 +54,10 @@ body {
   
 
 }
-.veneto {}
+.veneto {
+    top: 220px;
+    left: 536px;
+}
 .emilia-romagna {
     top:365px;
     right: 512px
@@ -103,4 +108,17 @@ body {
  .sicilia {
     top: 1100px;
     right:286px;
+ }
+ .aosta {
+    top: 275px;
+    left: 266px;
+ }
+ .trentino {
+    top:178px;
+    left:524px
+ }
+
+ .venezia {
+    top:225px;
+    left:656px
  }
