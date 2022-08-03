@@ -1,158 +1,151 @@
-
-
 body {
-    
-
 }
+
 header {
-    display:block;
-    text-align: center;
-       
-    
+  display: block;
+  text-align: center;
 }
+
 h1 {
-    font-size: 5rem;
+  font-size: 5rem;
 }
+
 h2 {
-    font-size: 3rem;
+  font-size: 3rem;
 }
+
 nav {
-    display: block;
-    
-    justify-content: center;
-    justify-items: center;
+  display: block;
+
+  justify-content: center;
+  justify-items: center;
 }
+
 #questionRow {
-    display:block;
+  display: block;
 }
-button{
-    width:200px;
-    height: 50px;
-    font-size: larger;
+
+button {
+  width: 200px;
+  height: 50px;
+  font-size: larger;
 }
+
 .bild:hover {
-    transform: scale(1.2);
+  transform: scale(1.2);
 }
 
-.bild{
-    aspect-ratio: 1;
-    position: absolute;
-   
-
+.bild {
+  aspect-ratio: 1;
+  position: absolute;
 }
+
 .container {
-    width:1200px;
-    height:2200px;
-    position: relative;
-    margin: 0 auto;
-
-    
-    
+  width: 1200px;
+  height: 2200px;
+  position: relative;
+  margin: 0 auto;
 }
 
 .calabria {
-   right: 183px;
-   top:887px;
-    
-    
+  right: 183px;
+  top: 887px;
 }
 
 .campania {
-    right: 285px;
-    top:753px;
-    
-  
-
+  right: 285px;
+  top: 753px;
 }
+
 .sardegna {
-    top:770px;
-    left: 350px
-    
- 
+  top: 770px;
+  left: 350px;
 }
+
 .umbria {
-    top:535px;
-    right: 477px;
-    z-index: 1;
-
+  top: 535px;
+  right: 477px;
+  z-index: 1;
 }
+
 .marche {
-    top: 496px;
-    right:430px;
-   
+  top: 496px;
+  right: 430px;
 }
-.toscana {
-    top:435px;
-    right:545px;
-  
 
+.toscana {
+  top: 435px;
+  right: 545px;
 }
+
 .veneto {
-    top: 220px;
-    left: 536px;
+  top: 220px;
+  left: 536px;
 }
+
 .emilia-romagna {
-    top:365px;
-    right: 512px
-    
+  top: 365px;
+  right: 512px;
 }
+
 .piemonte {
-    top:228px;
-    left: 250px;
-  
+  top: 228px;
+  left: 250px;
 }
+
 .basilicata {
-    right:213px;
-    top:785px
-    
-  
+  right: 213px;
+  top: 785px;
+  z-index: 1;
 }
+
 .puglia {
-    right: 100px;
-    top:705px
+  right: 100px;
+  top: 705px;
 }
-    
-    
+
 .molise {
-    right: 335px;
-    top: 695px;
-    
-  
+  right: 335px;
+  top: 695px;
 }
+
 .lazio {
-    top: 614px;
-    right:416px;
-    
+  top: 614px;
+  right: 416px;
 }
+
 .liguria {
-    top:410px;
-    right:718px
-  
+  top: 410px;
+  right: 718px;
 }
+
 .lombardia {
-    top:217px;
-    left:377px;
+  top: 217px;
+  left: 377px;
 }
 
 .abruzzo {
-    top: 612px;
-    right:365px;
+  top: 612px;
+  right: 365px;
 }
- .sicilia {
-    top: 1100px;
-    right:286px;
- }
- .aosta {
-    top: 275px;
-    left: 266px;
-    z-index: 1;
- }
- .trentino {
-    top:178px;
-    left:524px
- }
 
- .venezia {
-    top:225px;
-    left:656px
- }
+.sicilia {
+  top: 1100px;
+  right: 286px;
+}
+
+.aosta {
+  top: 275px;
+  left: 266px;
+  z-index: 1;
+}
+
+.trentino {
+  top: 178px;
+  left: 524px;
+}
+
+.venezia {
+  top: 225px;
+  left: 656px;
+}
