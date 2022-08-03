@@ -30,6 +30,9 @@ button{
     height: 50px;
     font-size: larger;
 }
+.bild:hover {
+    transform: scale(1.2);
+}
 
 .bild{
     aspect-ratio: 1;
@@ -70,6 +73,7 @@ button{
 .umbria {
     top:535px;
     right: 477px;
+    z-index: 1;
 
 }
 .marche {
@@ -141,6 +145,7 @@ button{
  .aosta {
     top: 275px;
     left: 266px;
+    z-index: 1;
  }
  .trentino {
     top:178px;
