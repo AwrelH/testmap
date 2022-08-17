@@ -81,27 +81,15 @@ elements.forEach(region => {
 
 
 
-// elements.forEach(funk => funk.addEventListener('click', event => {
-//    console.log(event.target.getAttribute("data-title"));
- //   if (e.target.getAttribute("data-title") === regions.alternatives[i] ) {
-   //  document.body.style.backgroundColor = 'yellow';
-   //  right += i;
-   //  regions.alternatives[i]++;
-//     debugger;
+elements.forEach(funk => funk.addEventListener('click', event => {
+   console.log(event.target.getAttribute("data-title"));
+   if (event.target.getAttribute("data-title") === nameTheRegion) {
+    document.body.style.backgroundColor = 'yellow';
+    right += 1;
+     
     
     
-    
-
-
- 
-
-//let funk = function() {
-//    let attribute = this.getAttribute("data-title");
-//    alert(attribute);}
-    
 
 
 
-
-//for (let i = 0; i < elements.length; i++) {
-//    elements[i].addEventListener('click', funk, false)}
+   }}))
